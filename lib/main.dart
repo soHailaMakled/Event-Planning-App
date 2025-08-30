@@ -1,4 +1,4 @@
-gitimport 'package:event_planning_app/core/utils/function/app_route.dart';
+import'package:event_planning_app/core/utils/function/app_route.dart';
 import 'package:event_planning_app/core/utils/theme/app_theme_data.dart';
 import 'package:flutter/material.dart';
 
